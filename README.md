@@ -12,7 +12,6 @@ Built in [May-CAD](https://www.google.com/search?q=May-CAD) software (free for W
 - Compact size
 - Affordable (much cheaper than production ones)
 
-
 [![Pr1me Simrig](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/pr1me_simrig_rotated_pedals.png)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/pr1me_simrig_rotated_pedals.png)
 
 This is a slight combination of **Sim Lab GT1 EVO** and **P1-X** sim racing cockpits with some additions to replace fabricated pedal plates and wheel and shifter mounts.
@@ -20,6 +19,13 @@ This is a slight combination of **Sim Lab GT1 EVO** and **P1-X** sim racing cock
 The main point was to create a reasonable affordable and compact plan but rigid and symmetric.
 
 It's all built with 40 mm anodized aluminum extrusion also known as 8020 and applies for mounting wheelbase, pedals in a rotated position, h-shifter, handbrake, monitor, and possible sequential shifter.
+
+Hardware this rig was primarily designed for:
+- Thrustmaster T500RS
+- Thrustmaster T3PA-PRO
+- Thrustmaster TH8A
+- Thrustmaster TSS Handbrake Sparco Mod
+- [DIY Button Box](https://github.com/romapr1me/Button-Box)
 
 [![Dive in](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/rig1.gif)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/rig1.gif)
 
@@ -72,4 +78,4 @@ And for the price point here's my bill
 
 [Download Bill](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/budget.pdf)
 
-[Dimenion calculations](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/dimensions.pdf)
+[Dimension calculations](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/dimensions.pdf)
