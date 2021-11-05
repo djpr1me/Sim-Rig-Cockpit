@@ -26,6 +26,7 @@ Hardware this rig was primarily designed for:
 - Thrustmaster TH8A
 - Thrustmaster TSS Handbrake Sparco Mod
 - [DIY Button Box](https://github.com/romapr1me/Button-Box)
+- Samsung S29E790C
 
 [![Dive in](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/rig1.gif)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/rig1.gif)
 
