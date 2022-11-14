@@ -2,6 +2,8 @@
 
 By examining tons of pictures, shared plans, and consumer sim rig manuals I decided to make my attempt to design my own aluminum profile cockpit.
 
+## Features
+
 ## [Download Plan for Free](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/pr1me_simrig_rotated_pedals.scene) 
 Built in [May-CAD](https://www.google.com/search?q=May-CAD) software (free for Windows operating system)
 
@@ -80,3 +82,33 @@ And for the price point here's my bill
 [Download Bill](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/budget.pdf)
 
 [Dimension calculations](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/dimensions.pdf)
+
+## Cockpit updates 11/11/2022
+
+> This updates are not represented in maycad file.
+
+While my cockpit got new sim racing hardware and I think it is fully done for now I decided to make updates to the initial project, it's not necessary but when you move to direct drive bases must look for additional rigidity.
+So for now my setup is:
+- Moza R9 with 335mm rim;
+- Caravangoes pedals;
+- Sequential shifter;
+- Thrustmaster TSS Handbrake Sparco Mod;
+- Thrustmaster TH8A h-pattern shifter;
+- [DIY Button Box](https://github.com/romapr1me/Button-Box).
+
+I've installed two connecting plates 2 on 4 holes 80x160mm to harden the connection between cockpit base frame and wheel stand. And six angles 40x39 for shifter mounts - two at the top and another two and the bottom and an additional two on the other side of 200mm profile for the shifter and handbrake. Of course, it requires additional t-nuts and bolts. Right now hard to tell the overall count of t-nuts, bolts, and washers but this is my second bill from the factory:
+
+| Pos. | Item | Qty |
+| ------ | ------ | ------ |
+| 1 | Connecting plate 2х4 80х160mm | 2 |
+| 2 | T-Nut for subsequent insertion, M8 | 40 |
+| 3 | T-Nut for subsequent insertion, М6 | 10 |
+| 4 | Angle GD-Zn, 40x39 | 10 |
+
+Make aware it is always better to have some extras for the near future.
+
+And here is a photo of the complete build.
+
+[![Cockpit Photo 1](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo1.jpeg)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo1.jpeg)
+
+[![Cockpit Photo 2](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo2.jpg)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo2.jpg)
