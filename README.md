@@ -112,3 +112,7 @@ And here is a photo of the complete build.
 [![Cockpit Photo 1](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo1.jpeg)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo1.jpeg)
 
 [![Cockpit Photo 2](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo2.jpg)](https://github.com/romapr1me/Sim-Rig-Cockpit/blob/main/cockpit_photo2.jpg)
+
+## Cockpit updates 18/09/2025
+
+Thrustmaster Thrustmaster TH8A h-pattern shifter has been replaced with the MOZA HGP Shifter. No additional parts were needed; everything fit the existing mounts perfectly.
